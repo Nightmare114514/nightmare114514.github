@@ -32,6 +32,8 @@
 
 <script type="text/javascript" > document.write( navigator.userAgent); </script>
 
+### [点此处传送到评论区](https://github.com/Nightmare114514/nightmare114514.github.io/issues)(点击绿色的New issue创建评论，有的人可能会上不去这个网页)
+
 ### 小提示
 
 点击[蓝色](https://nightmare114514.github.io/)的字（超链接）可以直接跳转到对应的网站
