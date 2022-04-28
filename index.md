@@ -34,4 +34,4 @@
 
 ### 小提示
 
-点击[蓝色](https://nightmare114514.github.io)的字（超链接）可以直接跳转到对应的网站
+点击[蓝色](https://nightmare114514.github.io/)的字（超链接）可以直接跳转到对应的网站
