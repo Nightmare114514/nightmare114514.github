@@ -4,7 +4,7 @@
 
 <img src="炮姐.png" alt="炮姐.png" title="炮姐天下第一！">
 
-### 我的[博客](https://nightmare114514.github.io/MyBlog/)
+### 我的[博客](https://nightmare114514.github.io/blog/)
 
 ### 整活
 
@@ -34,4 +34,4 @@
 
 ### 小提示
 
-点击[蓝色](https://nightmare114514.github.io/blog/)的字（超链接）可以直接跳转到对应的网站
+点击[蓝色](https://nightmare114514.github.io)的字（超链接）可以直接跳转到对应的网站
